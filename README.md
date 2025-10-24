@@ -1,2 +1,2 @@
-# Dicion-rio-da-banda-
+# Dicionario-da-banda
 Dicionário com gírias angolanas 
